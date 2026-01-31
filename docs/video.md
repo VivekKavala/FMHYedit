@@ -257,7 +257,7 @@
 * [Rive](https://rivestream.org/), [2](https://rivestream.net/) - Sub / Dub / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [AniZone](https://anizone.to/) - Sub
 * [AniHQ](https://anihq.to/) - Sub / Dub
-* [⁠Animelok](https://animelok.to/) - Sub / Dub
+* [⁠Animelok](https://animelok.to/) [2](https://animelok.site) - Sub / Dub
 * [Anikoto](https://anikototv.to/), [2](https://anisuge.tv/) - Sub / Dub / Auto-Next / [Backups](https://animesuge.bid/)
 * [⁠Lunar](https://lunaranime.ru/) - Sub / Dub / [Discord](https://discord.com/invite/NBBnhbFHBT)
 * [Anoboye](https://anoboye.com/) - Sub
